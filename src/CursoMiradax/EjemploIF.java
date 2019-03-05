@@ -17,6 +17,7 @@ public class EjemploIF {
         if(num1==0){
             num++;
         }
+        //imprime el resultado
         System.out.println(num2/num1);
     }
 }
